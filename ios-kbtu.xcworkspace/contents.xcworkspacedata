@@ -7,5 +7,12 @@
       <FileRef
          location = "group:Assignment1.playground">
       </FileRef>
+      <FileRef
+         location = "group:Assignment#1.pdf">
+      </FileRef>
    </Group>
+   <FileSystemSynchronizedGroup
+      location = "group:assignment-two"
+      name = "assignment-two">
+   </FileSystemSynchronizedGroup>
 </Workspace>
