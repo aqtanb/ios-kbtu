@@ -15,4 +15,8 @@
       location = "group:assignment-two"
       name = "assignment-two">
    </FileSystemSynchronizedGroup>
+   <FileSystemSynchronizedGroup
+      location = "group:assignment-three"
+      name = "assignment-three">
+   </FileSystemSynchronizedGroup>
 </Workspace>
