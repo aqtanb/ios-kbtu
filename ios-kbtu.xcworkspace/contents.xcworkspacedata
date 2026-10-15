@@ -27,4 +27,14 @@
       location = "group:assignment-five"
       name = "assignment-five">
    </FileSystemSynchronizedGroup>
+   <Group
+      location = "container:assignment-six"
+      name = "assignment-six">
+      <FileRef
+         location = "group:SixSeven/SixSeven.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Lab 6 · Favorites Roulette.pdf">
+      </FileRef>
+   </Group>
 </Workspace>
